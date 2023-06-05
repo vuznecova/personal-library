@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Main-Class: com.example.personallibrary.HelloApplication
+Class-Path: javafx-graphics-20.jar javafx-fxml-20-win.jar javafx-control
+ s-20.jar javafx-controls-20-win.jar javafx-base-20.jar javafx-base-20-w
+ in.jar javafx-graphics-20-win.jar javafx-fxml-20.jar
+
